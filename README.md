@@ -8,4 +8,4 @@ ___
 
 
 # List of Language
-
+1.Japanese
