@@ -1,23 +1,11 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+## About
+Welcome to our Language Repository! This place is a celebration of languages in all forms, from spoken languages like Japanese and German, to programming languages like C and Python. We invite everyone to contribute and share their favorite languages, be it your mother tongue, a foreign language you're learning, or a programming language you love to code in. Join us and let's appreciate the beauty and diversity of languages together!
+___
+私たちの言語リポジトリへようこそ！ここは、日本語やドイツ語のような話し言葉から、CやPythonのようなプログラミング言語まで、あらゆる形の言語を祝う場所です。母国語であろうと、学んでいる外国語であろうと、コードを書くのが好きなプログラミング言語であろうと、皆さんがお気に入りの言語を共有・寄稿することを歓迎します。一緒に、言語の美しさと多様性を称えましょう！
 
-# Rules
 
-1. Please choose a hobby or some interest that you want to build your repository
-2. Make a README to announce this theme (i.e., my favourite video games or anime)
-3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
-4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
-
-# Requirements
-To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
-2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
-4. Merge 10 Pull Requests into your forked Project.
-
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+
