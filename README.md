@@ -8,4 +8,5 @@ ___
 
 
 # List of Language
+- Korean
 - Python
