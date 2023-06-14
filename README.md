@@ -8,6 +8,7 @@ ___
 
 
 # List of Language
+- Japanese
 - エスペラント (Esperanto)
 - Klingonese (the Star Trek)
 - Korean
