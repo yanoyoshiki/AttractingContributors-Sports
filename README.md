@@ -8,6 +8,7 @@ ___
 
 
 # List of Language
+- エスペラント (Esperanto)
 - Klingonese (the Star Trek)
 - Korean
 - Python
