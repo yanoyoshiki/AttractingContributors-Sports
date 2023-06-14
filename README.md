@@ -8,4 +8,9 @@ ___
 
 
 # List of Language
-1. Python
+- Python
+- Japanese
+- エスペラント (Esperanto)
+- Klingonese (the Star Trek)
+- Korean
+- Python
