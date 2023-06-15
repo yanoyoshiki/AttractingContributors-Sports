@@ -11,3 +11,4 @@ Please tell us your favorite IDOL
 # List 
 
 * Perfume
+* 新しい学校のリーダーズ
