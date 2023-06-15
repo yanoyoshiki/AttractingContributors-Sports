@@ -14,3 +14,4 @@ ___
 - Klingonese (the Star Trek)
 - Korean
 - Python
+- JavaScript
