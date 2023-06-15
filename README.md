@@ -15,3 +15,5 @@ ___
 - Korean
 - Python
 - C
+- JavaScript
+- Verilog
