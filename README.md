@@ -14,5 +14,6 @@ ___
 - Klingonese (the Star Trek)
 - Korean
 - Python
+- C
 - JavaScript
 - Verilog
