@@ -27,7 +27,7 @@ I would like to know your favorite words/phrases that describe yourself or motiv
 # List of Words/Phrases
 1. Love yourself
 2. It's getting interesting!
-3. 
+3. No. Try not. Do. Or do not. There is no try from "Star Wars"
 4. 
 5. 
 6. 
