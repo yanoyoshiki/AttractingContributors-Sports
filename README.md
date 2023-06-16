@@ -12,3 +12,4 @@ Please tell us your favorite IDOL
 
 * Perfume
 * 新しい学校のリーダーズ
+* kinki kids
