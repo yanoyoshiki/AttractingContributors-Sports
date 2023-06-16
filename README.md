@@ -25,10 +25,10 @@ I would like to know your favorite words/phrases that describe yourself or motiv
 2. Honesty is the first chapter in the book of wisdom.
 
 # List of Words/Phrases
-1. It's getting interesting!
-2. Outgrow your limits
-3. 
-4. 
+1. Love yourself
+2. It's getting interesting!
+3. No. Try not. Do. Or do not. There is no try from "Star Wars"
+4. Outgrow your limits
 5. 
 6. 
 7. 
