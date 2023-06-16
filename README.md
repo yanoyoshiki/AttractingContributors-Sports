@@ -19,15 +19,12 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# My Project (Adjectives)
-I would like to know your favorite characteristics of a person (use adjective).
-You can write in any language, but if possible, give me the meaning in English too. 
-As an example, here are some of my personal favorites:
-1. Kind
-2. Honest
-3. Smart
+# My Project (Favorite Words/Phrases)
+I would like to know your favorite words/phrases that describe yourself or motivate you in life. You can write in any language, but if possible, give me the meaning in English too. As an example, here are some of my personal favorites:
+1. Everyone you meet is fighting a battle you know nothing about. Be kind. Always.
+2. Honesty is the first chapter in the book of wisdom.
 
-# List of Adjectives
+# List of Words/Phrases
 1. 
 2. 
 3. 
