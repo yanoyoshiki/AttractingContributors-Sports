@@ -2,7 +2,6 @@
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
-
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
@@ -20,4 +19,21 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My Project (Favorite Words/Phrases)
+I would like to know your favorite words/phrases that describe yourself or motivate you in life.
+You can write in any language, but if possible, give me the meaning in English too. 
+As an example, here are some of my personal favorites:
+1. Everyone you meet is fighting a battle you know nothing about. Be kind. Always.
+2. Honesty is the first chapter in the book of wisdom.
+
+# List of Words/Phrases
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
