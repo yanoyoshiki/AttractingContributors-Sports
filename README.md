@@ -27,7 +27,7 @@ As an example, here are some of my personal favorites:
 2. Honest
 3. Smart
 
-# List of Words/Phrases
+# List of Adjectives
 1. 
 2. 
 3. 
