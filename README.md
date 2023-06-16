@@ -20,16 +20,14 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # My Project (Favorite Words/Phrases)
-I would like to know your favorite words/phrases that describe yourself or motivate you in life.
-You can write in any language, but if possible, give me the meaning in English too. 
-As an example, here are some of my personal favorites:
+I would like to know your favorite words/phrases that describe yourself or motivate you in life. You can write in any language, but if possible, give me the meaning in English too. As an example, here are some of my personal favorites:
 1. Everyone you meet is fighting a battle you know nothing about. Be kind. Always.
 2. Honesty is the first chapter in the book of wisdom.
 
 # List of Words/Phrases
-1. No. Try not. Do. Or do not. There is no try from "Star Wars"
-2. 
-3. 
+1. Love yourself
+2. It's getting interesting!
+3. No. Try not. Do. Or do not. There is no try from "Star Wars"
 4. 
 5. 
 6. 
