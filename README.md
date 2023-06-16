@@ -9,22 +9,13 @@ Recently, I like American beavers. I keep seeing pictures of baby American beave
 
 # List of animal
 
-1.Shoebill
-
-2.Vombatus ursinus
-
-3.hedgehog
-
-4.chipmunk
-
-5.Turtle
-
-6.Rabbit
-
-7.prery dog
-
+1. Shoebill
+2. Vombatus ursinus
+3. hedgehog
+4. chipmunk
+5. Turtle
+6. Rabbit
+7. prery dog
 8.
-
 9.
-
 10.
