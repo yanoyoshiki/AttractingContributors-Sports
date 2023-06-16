@@ -25,8 +25,8 @@ I would like to know your favorite words/phrases that describe yourself or motiv
 2. Honesty is the first chapter in the book of wisdom.
 
 # List of Words/Phrases
-1. It's getting interesting!
-2. 
+1. Love yourself
+2. It's getting interesting!
 3. 
 4. 
 5. 
