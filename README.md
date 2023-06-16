@@ -27,7 +27,7 @@ As an example, here are some of my personal favorites:
 2. Honesty is the first chapter in the book of wisdom.
 
 # List of Words/Phrases
-1. 
+1. Love yourself
 2. 
 3. 
 4. 
