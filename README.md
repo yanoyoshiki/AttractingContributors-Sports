@@ -19,7 +19,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# My Project (Favorite Words/Phrases)
+# My Project (Adjectives)
 I would like to know your favorite characteristics of a person (use adjective).
 You can write in any language, but if possible, give me the meaning in English too. 
 As an example, here are some of my personal favorites:
