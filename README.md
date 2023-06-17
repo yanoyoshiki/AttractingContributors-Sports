@@ -13,3 +13,4 @@ Please tell us your favorite IDOL
 * Perfume
 * 新しい学校のリーダーズ
 * kinki kids
+* 765 MILLION ALLSTARS
