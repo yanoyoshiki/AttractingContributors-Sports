@@ -14,3 +14,4 @@ Please tell us your favorite IDOL
 * 新しい学校のリーダーズ
 * kinki kids
 * 乃木坂46
+* 765 MILLION ALLSTARS
