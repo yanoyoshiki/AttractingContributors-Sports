@@ -30,8 +30,8 @@ I would like to know your favorite words/phrases that describe yourself or motiv
 3. No. Try not. Do. Or do not. There is no try from "Star Wars"
 4. Outgrow your limits
 5. Just do it
-6. It's a piece of cake!
-7. 
+6. Love me love my dogs
+7. It's a piece of cake!
 8. 
 9. 
 10. 
