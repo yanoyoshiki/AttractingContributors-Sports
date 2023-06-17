@@ -6,7 +6,7 @@ I'm ubi-lab.
 
 # List of Lab
 1. UBI  
-2.
+2. UBI  
 3.
 4.
 5.
