@@ -16,6 +16,6 @@ Recently, I like American beavers. I keep seeing pictures of baby American beave
 5. Turtle
 6. Rabbit
 7. prery dog
-8.
+8. Shiba Inu
 9.
 10.
