@@ -32,6 +32,6 @@ I would like to know your favorite words/phrases that describe yourself or motiv
 5. Just do it
 6. Love me love my dogs
 7. It's a piece of cake!
-8. 
+8. A ship in harbor is safe, but that is not what ships are built for
 9. 
 10. 
