@@ -35,6 +35,3 @@ I would like to know your favorite words/phrases that describe yourself or motiv
 8. 
 9. 
 10. 
-
-
-
