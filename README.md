@@ -14,3 +14,4 @@ Please tell us your favorite IDOL
 * 新しい学校のリーダーズ
 * kinki kids
 * Pass Code
+* 765 MILLION ALLSTARS
