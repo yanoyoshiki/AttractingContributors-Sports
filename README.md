@@ -3,7 +3,7 @@ What's you favorite game and what game would you recommend ?
 好きなゲームは何ですか。おすすめがありますか。
 
 # Your Favorite game, your recommendation
-1.
+1. Super Mario series
 2.
 3.
 4.
