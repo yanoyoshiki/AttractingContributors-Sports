@@ -26,3 +26,4 @@ Goal - I want contributors to help me list some favorite Sports.
 5. Soccer
 6. Petanque
 7. Dance
+8. Badminton
