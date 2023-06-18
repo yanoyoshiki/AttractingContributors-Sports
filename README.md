@@ -26,7 +26,7 @@ example:
 
 # Alphabet Shiritori
 1. Shiritori
-2. 
+2. Imagine
 3. 
 4. 
 5. 
