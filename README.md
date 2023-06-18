@@ -33,5 +33,5 @@ I would like to know your favorite words/phrases that describe yourself or motiv
 6. Love me love my dogs
 7. It's a piece of cake!
 8. Men willingly believe what they wish.
-9. 
+9. A ship in harbor is safe, but that is not what ships are built for
 10. 
