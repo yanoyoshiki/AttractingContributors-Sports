@@ -21,3 +21,4 @@ For me, the best OS is Kali Linux. <br/>
 What is the best OS for you?<br/>
 Would you add it to the list below?<br/>
 # List of Hobby
+- ubuntu
