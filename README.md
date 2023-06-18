@@ -18,4 +18,4 @@ Recently, I like American beavers. I keep seeing pictures of baby American beave
 7. prery dog
 8. Shiba Inu
 9. Cat
-10.
+10. Dogs
