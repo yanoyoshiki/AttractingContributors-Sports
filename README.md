@@ -24,4 +24,5 @@ Basketball
 BasketBall
 Boxing
 Soccer
+Petanque
 Dance
