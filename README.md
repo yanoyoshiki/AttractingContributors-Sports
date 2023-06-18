@@ -15,9 +15,9 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
+# My Project (OS-Collections)
+I would like to ask contributors to help me name some of the best Operating Systems (OS). 
+For me, the best OS is Kali Linux. 
+What is the best OS for you? 
+Would you add it to the list below? 
 # List of Hobby
