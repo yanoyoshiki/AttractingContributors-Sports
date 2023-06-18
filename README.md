@@ -17,3 +17,4 @@ ___
 - C
 - JavaScript
 - Verilog
+- Rust
