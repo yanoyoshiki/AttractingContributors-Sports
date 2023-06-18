@@ -19,10 +19,10 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite Sports.
 
 # List of Sports.
-Water Polo
-Basketball
-BasketBall
-Boxing
-Soccer
-Petanque
-Dance
+1. Water Polo
+2. Basketball
+3. BasketBall
+4. Boxing
+5. Soccer
+6. Petanque
+7. Dance
