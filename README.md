@@ -16,8 +16,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (OS-Collections)
-I would like to ask contributors to help me name some of the best Operating Systems (OS). 
-For me, the best OS is Kali Linux. 
-What is the best OS for you? 
-Would you add it to the list below? 
+I would like to ask contributors to help me name some of the best Operating Systems (OS).<br/>
+For me, the best OS is Kali Linux. <br/>
+What is the best OS for you?<br/>
+Would you add it to the list below?<br/>
 # List of Hobby
