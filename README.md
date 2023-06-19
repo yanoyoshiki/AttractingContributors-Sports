@@ -25,3 +25,4 @@ Would you add it to the list below?<br/>
 - Arch Linux
 - Windows
 - MacOS
+- Windows
