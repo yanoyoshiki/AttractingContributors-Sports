@@ -28,3 +28,4 @@ Would you add it to the list below?<br/>
 - Windows
 - Android
 - mint
+- Kali Linux
