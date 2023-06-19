@@ -4,7 +4,7 @@ What's you favorite game and what game would you recommend ?
 
 # Your Favorite game, your recommendation
 1.Genshin Impact
-2.
+2.Among Us
 3.
 4.
 5.
