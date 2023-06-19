@@ -24,3 +24,4 @@ Would you add it to the list below?<br/>
 - ubuntu
 - Arch Linux
 - Windows
+- MacOS
